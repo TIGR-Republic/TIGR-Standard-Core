@@ -18,10 +18,10 @@ All current blockchain activity — including initial liquidity provisioning and
 - **No Third‑Party Rights:** No external party has been granted any claim to profit, yield, or financial return.  
 - **No Revenue Generated:** Tenis Dubeč s.r.o. has not recognized any revenue from these internal operations.
 
-**On‑chain holdings and liquidity:** As of the date above, all TIGR tokens are held in a small number of on‑chain accounts under the control of the founding entity (including multisignature accounts and a founder wallet). Two minor accounts belong to personal acquaintances who were provided with a small amount of SOL for testing purposes only; two automated accounts (HFT bots) hold tokens of negligible value. No tokens have been distributed via public sale. Any on‑chain liquidity positions (if present) are controlled exclusively by the founding entity for technical testing. Evidence of these internal transactions and holdings is retained for audit purposes. DEX visibility and third‑party bot tiny holdings are automatic properties of the Solana network and do not constitute public distribution.
+**On‑chain holdings and liquidity:** As of the date above, all TIGR tokens are held in a small number of on‑chain accounts under the control of the founding entity (including multisignature accounts and a founder wallet). Two minor accounts belong to personal acquaintances who were provided with a small amount of SOL for testing purposes only; two automated accounts (HFT bots) hold tokens of negligible value. No tokens have been distributed via public sale. Any on‑chain liquidity positions (if present) are controlled exclusively by the founding entity for technical testing. Evidence of these internal transactions and holdings is retained for audit purposes. DEX visibility and third‑party bot tiny holdings are automatic properties of the Solana network and do not constitute public distribution. The project does not encourage, support, or facilitate any trading activity, and no market‑making functions are provided.
 
 ## 3. Genesis Anchor — Technical Proof of Stability
-The TIGR project is currently in an internal research and development (R&D) phase. To demonstrate a long‑term commitment to protocol integrity, two symbolic liquidity positions with a combined size of **1,000,000 TIGR + 1 SOL** were created and locked for 12 months via the Streamflow protocol. These positions serve exclusively as a **technical proof of stability (Genesis Anchor)** and **are not intended for public trading**.
+The TIGR project is currently in an internal research and development (R&D) phase. To demonstrate a long‑term commitment to protocol integrity, two symbolic liquidity positions with a combined size of **1,000,000 TIGR + 1 SOL** were created and locked for 12 months via the Streamflow protocol. These positions serve exclusively as a **technical proof of stability (Genesis Anchor)** and **are not intended for public trading**. Any third‑party trading activity is incidental, unsupported, and may result in loss due to intentionally minimal liquidity.
 
 Liquidity is intentionally minimal, and any attempt to trade against it would result in extreme volatility. The founding entity does not provide market‑making, does not enable public token distribution, and does not generate any revenue from internal transactions. The founder holds **0.0% freely available tokens**; all personal holdings are either market‑purchased or subject to long‑term vesting with a 36‑month linear vesting schedule and a 6‑month cliff period.
 
@@ -30,6 +30,7 @@ Liquidity is intentionally minimal, and any attempt to trade against it would re
 - Transaction hash #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
 - Locked until: **10 January 2027**
 - Contract ID (vesting): `5xaD8LWsNuazboRyzuBxXCZDiPASDVBYEQUA99KiBAqr`
+These references are provided solely for transparency and do not imply any form of public participation or investment opportunity.
 
 Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
 
@@ -83,10 +84,10 @@ Veškerá současná blockchainová aktivita — včetně počátečního poskyt
 - **Žádná práva třetích stran:** Žádné externí osobě nevznikl nárok na zisk, výnos či finanční návratnost.  
 - **Bez generování příjmů:** Společnost Tenis Dubeč s.r.o. z těchto interních operací nezaznamenala žádné příjmy.
 
-**On‑chain držby a likvidita:** K datu uvedenému výše jsou všechny tokeny TIGR drženy v malém počtu on‑chain účtů pod kontrolou zakládající entity (včetně multisig účtů a peněženky zakladatele). Dva drobné účty patří osobním přátelům, kterým jsem poskytl malé množství SOL výhradně pro testovací účely; dva automatizované účty (HFT boty) vlastní dohromady tokeny v zanedbatelné hodnotě; žádné tokeny nebyly distribuovány prostřednictvím veřejného prodeje. Jakékoli on‑chain likviditní pozice (pokud existují) jsou kontrolovány zakládající entitou výhradně pro technické testování. Důkazy o těchto interních transakcích a držbách jsou uchovávány pro účely auditu. Viditelnost na decentralizovaných burzách (DEX) a drobná držba tokenů boty třetích stran jsou automatickými vlastnostmi sítě Solana a nepředstavují veřejnou distribuci.
+**On‑chain držby a likvidita:** K datu uvedenému výše jsou všechny tokeny TIGR drženy v malém počtu on‑chain účtů pod kontrolou zakládající entity (včetně multisig účtů a peněženky zakladatele). Dva drobné účty patří osobním přátelům, kterým jsem poskytl malé množství SOL výhradně pro testovací účely; dva automatizované účty (HFT boty) vlastní dohromady tokeny v zanedbatelné hodnotě; žádné tokeny nebyly distribuovány prostřednictvím veřejného prodeje. Jakékoli on‑chain likviditní pozice (pokud existují) jsou kontrolovány zakládající entitou výhradně pro technické testování. Důkazy o těchto interních transakcích a držbách jsou uchovávány pro účely auditu. Viditelnost na decentralizovaných burzách (DEX) a drobná držba tokenů boty třetích stran jsou automatickými vlastnostmi sítě Solana a nepředstavují veřejnou distribuci. Projekt nepodporuje, neumožňuje ani nijak neusnadňuje obchodní aktivitu a neposkytuje žádné market‑making funkce.
 
 ## 3. Genesis Anchor — technický důkaz stability
-Projekt TIGR je ve fázi interního výzkumu a vývoje (R&D). Aby byl prokázán dlouhodobý závazek k integritě protokolu, byly vytvořeny a na 12 měsíců uzamčeny dvě symbolické likviditní pozice o celkové velikosti **1 000 000 TIGR + 1 SOL** prostřednictvím protokolu Streamflow. Tyto pozice slouží výhradně jako **technický důkaz stability (Genesis Anchor)** a **nejsou určeny k veřejnému obchodování**.
+Projekt TIGR je ve fázi interního výzkumu a vývoje (R&D). Aby byl prokázán dlouhodobý závazek k integritě protokolu, byly vytvořeny a na 12 měsíců uzamčeny dvě symbolické likviditní pozice o celkové velikosti **1 000 000 TIGR + 1 SOL** prostřednictvím protokolu Streamflow. Tyto pozice slouží výhradně jako **technický důkaz stability (Genesis Anchor)** a **nejsou určeny k veřejnému obchodování**. Jakákoli obchodní aktivita třetích stran je nahodilá, nepodporovaná a může vést ke ztrátě z důvodu záměrně minimální likvidity.
 
 Likvidita je záměrně minimální a jakýkoli pokus o obchodování by vedl k extrémní volatilitě. Zakládající entita neposkytuje market‑making, neumožňuje veřejnou distribuci tokenů a nezískává žádné příjmy z interních transakcí. Zakladatel drží **0,0 % volně dostupných tokenů**; osobní držby jsou buď nakoupené na trhu, nebo podléhají dlouhodobému vestingu s **36měsíčním lineárním uvolňováním** a **6měsíční odkladovou lhůtou (cliff)**.
 
@@ -95,6 +96,7 @@ Likvidita je záměrně minimální a jakýkoli pokus o obchodování by vedl k 
 - Hash transakce #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
 - Uzamčeno do: **10. ledna 2027**  
 - Contract ID (vesting): `5xaD8LWsNuazboRyzuBxXCZDiPASDVBYEQUA99KiBAqr`
+Tyto odkazy jsou uvedeny výhradně z důvodu transparentnosti a nepředstavují žádnou formu veřejné účasti ani investiční příležitosti.
 
 Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování adres za podmínek důvěrnosti. 
 
