@@ -23,14 +23,15 @@ All current blockchain activity — including initial liquidity provisioning and
 ## 3. Genesis Anchor — Technical Proof of Stability
 The TIGR project is currently in an internal research and development (R&D) phase. To demonstrate a long‑term commitment to protocol integrity, two symbolic liquidity positions with a combined size of **1,000,000 TIGR + 1 SOL** were created and locked for 12 months via the Streamflow protocol. These positions serve exclusively as a **technical proof of stability (Genesis Anchor)** and **are not intended for public trading**.
 
-Liquidity is intentionally minimal, and any attempt to trade against it would result in extreme volatility. The founding entity does not provide market‑making, does not enable public token distribution, and does not generate any revenue from internal transactions. The founder holds **0.0% freely available tokens**; all personal holdings are either market‑purchased or subject to long‑term vesting.
+Liquidity is minimal, and any attempt to trade against it would result in extreme volatility. The founding entity does not provide market‑making, does not enable public token distribution, and does not generate any revenue from internal transactions. The founder holds **0.0% freely available tokens**; all personal holdings are either market‑purchased or subject to long‑term vesting with a 36‑month linear vesting schedule and a 6‑month cliff period.
 
-**On‑chain evidence (2× Streamflow lock):**  
+**On‑chain evidence (2× Streamflow lock + vesting):**  
 - Transaction hash #1: `4bhr89Rf49M2UVQEgZE6deDCPMLBNWuuVDat4BPteXXL`  
 - Transaction hash #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
 - Locked until: **10 January 2027**
+- Contract ID (vesting): `5xaD8LWsNuazboRyzuBxXCZDiPASDVBYEQUA99KiBAqr`
 
-Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
+- Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
 
 ## 4. Regulatory Compliance Path
 The founding entity is committed to full compliance with the European Union regulatory framework (MiCA – EU 2023/1114) and applicable national requirements.
@@ -86,12 +87,13 @@ Veškerá současná blockchainová aktivita — včetně počátečního poskyt
 ## 3. Genesis Anchor — technický důkaz stability
 Projekt TIGR je ve fázi interního výzkumu a vývoje (R&D). Aby byl prokázán dlouhodobý závazek k integritě protokolu, byly vytvořeny a na 12 měsíců uzamčeny dvě symbolické likviditní pozice o celkové velikosti **1 000 000 TIGR + 1 SOL** prostřednictvím protokolu Streamflow. Tyto pozice slouží výhradně jako **technický důkaz stability (Genesis Anchor)** a **nejsou určeny k veřejnému obchodování**.
 
-Likvidita je záměrně minimální a jakýkoli pokus o obchodování by vedl k extrémní volatilitě. Zakládající entita neposkytuje market‑making, neumožňuje veřejnou distribuci tokenů a nezískává žádné příjmy z interních transakcí. Zakladatel drží **0,0 % volně dostupných tokenů**; osobní držby jsou buď nakoupené na trhu, nebo podléhají dlouhodobému vestingu.
+Likvidita je minimální a jakýkoli pokus o obchodování by vedl k extrémní volatilitě. Zakládající entita neposkytuje market‑making, neumožňuje veřejnou distribuci tokenů a nezískává žádné příjmy z interních transakcí. Zakladatel drží **0,0 % volně dostupných tokenů**; osobní držby jsou buď nakoupené na trhu, nebo podléhají dlouhodobému vestingu s **36měsíčním lineárním uvolňováním** a **6měsíční odkladovou lhůtou (cliff)**.
 
-**On‑chain důkaz (2× Streamflow lock):**  
+**On‑chain důkaz (2× Streamflow lock + vesting):**  
 - Hash transakce #1: `4bhr89Rf49M2UVQEgZE6deDCPMLBNWuuVDat4BPteXXL`  
 - Hash transakce #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
-- Uzamčeno do: **10. ledna 2027**
+- Uzamčeno do: **10. ledna 2027**  
+- Contract ID (vesting): `5xaD8LWsNuazboRyzuBxXCZDiPASDVBYEQUA99KiBAqr`
 
 Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování adres za podmínek důvěrnosti. 
 
