@@ -36,6 +36,7 @@ Authorized auditors may request signed snapshots and internal address mappings u
 ## 4. Regulatory Compliance Path
 The founding entity is committed to full compliance with the European Union regulatory framework (MiCA – EU 2023/1114) and applicable national requirements.
 
+- **Target Operating Model:** The TIGR architecture is evolving toward a **fully decentralized model** (pursuant to Recital 22 of the MiCA regulation). The development objective is to establish an autonomous software protocol that, upon completion of the R&D phase, will operate independently of the founding entity, without central intermediaries, and with users maintaining sole custody of their assets.
 - **Operational Pause:** No expansion of token distribution, enabling of public trading, or launch of public services will occur until the registration of the relevant trade activity (**Category 81** or equivalent) is completed with the Czech Trade Licensing Office, where applicable.  
 - **No VAM Services Provided:** The project does not currently provide custody, exchange, brokerage, or any other regulated VAM service.  
 - **Transparent Proof of Concept:** Current blockchain entries represent a transparent Proof of Concept intended to demonstrate architectural integrity to future regulators and participants.
@@ -100,6 +101,7 @@ Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování 
 ## 4. Regulatorní postup
 Zakládající entita je odhodlána plně dodržovat regulatorní rámec Evropské unie (MiCA – EU 2023/1114) a příslušné národní požadavky.
 
+- **Cílový operační model:** Architektura projektu TIGR směřuje k modelu **plné decentralizace** (v souladu s recitálem 22 nařízení MiCA). Cílem vývoje je vytvořit autonomní softwarový protokol, který po dokončení výzkumné fáze bude fungovat nezávisle na zakládající entitě, bez centrálního prostředníka a s výhradní kontrolou uživatelů nad jejich aktivy.
 - **Provozní pauza:** K žádnému rozšíření distribuce tokenu, zpřístupnění veřejného obchodování ani spuštění veřejných služeb nedojde, dokud nebudou dokončeny příslušné národní registrace a autorizace, včetně registrace příslušné živnosti (obor 81 nebo ekvivalent) u českého živnostenského úřadu, pokud to bude relevantní.  
 - **Žádné poskytování VAM služeb:** Projekt v současnosti neposkytuje custody, směnu, zprostředkování ani žádnou jinou regulovanou VAM službu.  
 - **Transparentní PoC:** Současné blockchainové záznamy představují transparentní Proof of Concept určený k demonstraci architektonické integrity budoucím regulátorům a účastníkům.
