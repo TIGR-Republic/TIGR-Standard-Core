@@ -3,8 +3,8 @@
 # WHITE PAPER: REPUBLIKA TIGR
 **Verze:** 1.0 (Genesis Edition)  
 **Datum:** 8. února 2026  
-**Status:** Internal R&D / Technical Preview  
-**Architekt:** Founder  
+**Status:** Interní výzkum a vývoj / Technický náhled 
+**Architekt:** Zakladatel  
 
 ---
 
