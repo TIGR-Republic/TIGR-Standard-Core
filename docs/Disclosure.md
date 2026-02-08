@@ -20,7 +20,19 @@ All current blockchain activity — including initial liquidity provisioning and
 
 **On‑chain holdings and liquidity:** As of the date above, all TIGR tokens are held in a small number of on‑chain accounts under the control of the founding entity (including multisignature accounts and a founder wallet). Two minor accounts belong to personal acquaintances who were provided with a small amount of SOL for testing purposes only; two automated accounts (HFT bots) hold tokens of negligible value. No tokens have been distributed via public sale. Any on‑chain liquidity positions (if present) are controlled exclusively by the founding entity for technical testing. Evidence of these internal transactions and holdings is retained for audit purposes. DEX visibility and third‑party bot tiny holdings are automatic properties of the Solana network and do not constitute public distribution.
 
-## 3. Regulatory Compliance Path
+## 3. Genesis Anchor — Technical Proof of Stability
+The TIGR project is currently in an internal research and development (R&D) phase. To demonstrate a long‑term commitment to protocol integrity, two symbolic liquidity positions with a combined size of **1,000,000 TIGR + 1 SOL** were created and locked for 12 months via the Streamflow protocol. These positions serve exclusively as a **technical proof of stability (Genesis Anchor)** and **are not intended for public trading**.
+
+Liquidity is intentionally minimal, and any attempt to trade against it would result in extreme volatility. The founding entity does not provide market‑making, does not enable public token distribution, and does not generate any revenue from internal transactions. The founder holds **0.0% freely available tokens**; all personal holdings are either market‑purchased or subject to long‑term vesting.
+
+**On‑chain evidence (2× Streamflow lock):**  
+- Transaction hash #1: `4bhr89Rf49M2UVQEgZE6deDCPMLBNWuuVDat4BPteXXL`  
+- Transaction hash #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
+- Locked until: **10 January 2027**
+
+Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions (contact: **tigrrepublic@proton.me**).
+
+## 4. Regulatory Compliance Path
 The founding entity is committed to full compliance with the European Union regulatory framework (MiCA – EU 2023/1114) and applicable national requirements.
 
 - **Operational Pause:** No expansion of token distribution, enabling of public trading, or launch of public services will occur until the registration of the relevant trade activity (**Category 81** or equivalent) is completed with the Czech Trade Licensing Office, where applicable.  
@@ -30,16 +42,16 @@ The founding entity is committed to full compliance with the European Union regu
 **Regulatory note (Czech Republic):**  
 The former Czech trade license No. 81 (“Provision of services related to virtual assets”) was abolished on February 15, 2025. As of the date of this disclosure, the national licensing process for MiCA‑compliant CASP authorization has not yet been opened by the Czech National Bank. Until TIGR obtains a CASP license, the project remains strictly in an internal Research & Development (R&D) mode.
 
-## 4. Evidence and Auditability
+## 5. Evidence and Auditability
 **Evidence Retention:** Transaction snapshots, address mappings, and internal accounting records documenting the on‑chain state and the internal nature of operations are retained and available for audit by authorized parties.  
 **Address Mapping:** A concise internal mapping of key addresses (e.g., multisig accounts, founder wallet, test liquidity accounts) is maintained for compliance and verification.  
 **Cooperation:** In the event of a regulatory inquiry, the founding entity will provide authorized auditors or regulators with the necessary on‑chain snapshots and supporting internal records under appropriate confidentiality arrangements.
 
-## 5. Disclaimer
+## 6. Disclaimer
 TIGR tokens currently **have no observable public market price** on public exchanges and do not confer any financial rights, dividends, governance privileges, or equity in Tenis Dubeč s.r.o.  
 The token **is not intended for trading or public distribution** until all required regulatory approvals and registrations have been obtained.
 
-## 6. Contact for Regulatory or Compliance Inquiries
+## 7. Contact for Regulatory or Compliance Inquiries
 **Role:** Founder
 **Email:**  tigrrepublic@proton.me   
 Please direct all regulatory, legal, or audit‑related inquiries to the contact above. Authorized requests for evidence or further details will be handled promptly and under appropriate confidentiality.
@@ -71,7 +83,19 @@ Veškerá současná blockchainová aktivita — včetně počátečního poskyt
 
 **On‑chain držby a likvidita:** K datu uvedenému výše jsou všechny tokeny TIGR drženy v malém počtu on‑chain účtů pod kontrolou zakládající entity (včetně multisig účtů a peněženky zakladatele). Dva drobné účty patří osobním přátelům, kterým jsem poskytl malé množství SOL výhradně pro testovací účely; dva automatizované účty (HFT boty) vlastní dohromady tokeny v zanedbatelné hodnotě; žádné tokeny nebyly distribuovány prostřednictvím veřejného prodeje. Jakékoli on‑chain likviditní pozice (pokud existují) jsou kontrolovány zakládající entitou výhradně pro technické testování. Důkazy o těchto interních transakcích a držbách jsou uchovávány pro účely auditu. Viditelnost na decentralizovaných burzách (DEX) a drobná držba tokenů boty třetích stran jsou automatickými vlastnostmi sítě Solana a nepředstavují veřejnou distribuci.
 
-## 3. Regulatorní postup
+## 3. Genesis Anchor — technický důkaz stability
+Projekt TIGR je ve fázi interního výzkumu a vývoje (R&D). Aby byl prokázán dlouhodobý závazek k integritě protokolu, byly vytvořeny a na 12 měsíců uzamčeny dvě symbolické likviditní pozice o celkové velikosti **1 000 000 TIGR + 1 SOL** prostřednictvím protokolu Streamflow. Tyto pozice slouží výhradně jako **technický důkaz stability (Genesis Anchor)** a **nejsou určeny k veřejnému obchodování**.
+
+Likvidita je záměrně minimální a jakýkoli pokus o obchodování by vedl k extrémní volatilitě. Zakládající entita neposkytuje market‑making, neumožňuje veřejnou distribuci tokenů a nezískává žádné příjmy z interních transakcí. Zakladatel drží **0,0 % volně dostupných tokenů**; osobní držby jsou buď nakoupené na trhu, nebo podléhají dlouhodobému vestingu.
+
+**On‑chain důkaz (2× Streamflow lock):**  
+- Hash transakce #1: `4bhr89Rf49M2UVQEgZE6deDCPMLBNWuuVDat4BPteXXL`  
+- Hash transakce #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
+- Uzamčeno do: **10. ledna 2027**
+
+Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování adres za podmínek důvěrnosti (kontakt: **tigrrepublic@proton.me**).  
+
+## 4. Regulatorní postup
 Zakládající entita je odhodlána plně dodržovat regulatorní rámec Evropské unie (MiCA – EU 2023/1114) a příslušné národní požadavky.
 
 - **Provozní pauza:** K žádnému rozšíření distribuce tokenu, zpřístupnění veřejného obchodování ani spuštění veřejných služeb nedojde, dokud nebudou dokončeny příslušné národní registrace a autorizace, včetně registrace příslušné živnosti (obor 81 nebo ekvivalent) u českého živnostenského úřadu, pokud to bude relevantní.  
@@ -81,16 +105,16 @@ Zakládající entita je odhodlána plně dodržovat regulatorní rámec Evropsk
 **Regulatorní poznámka (Česká republika):**  
 Dřívější živnost č. 81 („Poskytování služeb spojených s virtuálními aktivy“) byla k 15. 2. 2025 zrušena. K datu tohoto oznámení nebyl Českou národní bankou dosud otevřen licenční proces pro CASP autorizaci podle MiCA. Do doby, než TIGR získá CASP licenci, zůstává projekt výhradně v interním režimu výzkumu a vývoje (R&D).
 
-## 4. Důkazy a auditovatelnost
+## 5. Důkazy a auditovatelnost
 **Uchovávání důkazů:** Snapshoty transakcí, mapování adres a interní účetní záznamy dokumentující on‑chain stav a interní povahu operací jsou uchovávány a jsou k dispozici pro audit oprávněným stranám.  
 **Mapování adres:** Je veden stručný interní seznam klíčových adres (např. multisig účty, peněženka zakladatele, testovací likviditní účty) pro účely souladu a ověření.  
 **Doporučení:** V případě regulatorního dotazu poskytne zakládající entita oprávněným auditorům nebo regulátorům potřebné on‑chain snapshoty a podpůrné interní záznamy za podmínek odpovídající důvěrnosti.
 
-## 5. Prohlášení
+## 6. Prohlášení
 Tokeny TIGR v současné fázi **nemají pozorovatelnou veřejnou tržní cenu** na veřejných burzách a nezakládají žádná finanční práva, dividendy, governance oprávnění ani podíl na společnosti Tenis Dubeč s.r.o.  
 Token **není určen k obchodování ani veřejné distribuci**, dokud nebudou získána všechna požadovaná regulatorní povolení a registrace.
 
-## 6. Kontakt pro regulatorní nebo compliance dotazy
+## 7. Kontakt pro regulatorní nebo compliance dotazy
 **Role:** Zakladatel
 **Email:** tigrrepublic@proton.me  
 Prosím, směřujte veškeré regulatorní, právní nebo auditorské dotazy na výše uvedený kontakt. Oprávněné žádosti o důkazy nebo další podrobnosti budou vyřízeny rychle a za podmínek odpovídající důvěrnosti.
