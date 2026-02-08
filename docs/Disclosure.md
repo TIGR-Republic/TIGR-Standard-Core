@@ -30,7 +30,7 @@ Liquidity is intentionally minimal, and any attempt to trade against it would re
 - Transaction hash #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
 - Locked until: **10 January 2027**
 
-Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions (contact: **tigrrepublic@proton.me**).
+Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
 
 ## 4. Regulatory Compliance Path
 The founding entity is committed to full compliance with the European Union regulatory framework (MiCA – EU 2023/1114) and applicable national requirements.
@@ -93,7 +93,7 @@ Likvidita je záměrně minimální a jakýkoli pokus o obchodování by vedl k 
 - Hash transakce #2: `46BECMR1ATPvE9djc2LePEkKS8MjyqynphLXmWqwi6Pu`  
 - Uzamčeno do: **10. ledna 2027**
 
-Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování adres za podmínek důvěrnosti (kontakt: **tigrrepublic@proton.me**).  
+Oprávnění auditoři mohou získat podepsané snapshoty a interní mapování adres za podmínek důvěrnosti. 
 
 ## 4. Regulatorní postup
 Zakládající entita je odhodlána plně dodržovat regulatorní rámec Evropské unie (MiCA – EU 2023/1114) a příslušné národní požadavky.
