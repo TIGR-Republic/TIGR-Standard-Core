@@ -1,4 +1,4 @@
-Česká verze zde](./README_CZ.md)
+[Česká verze zde](./README_CZ.md)
 
 # WHITE PAPER: TIGR REPUBLIC
 **Version:** 1.0 (Genesis Edition)  
