@@ -42,7 +42,7 @@ The founding entity is committed to full compliance with the European Union regu
 - **Transparent Proof of Concept:** Current blockchain entries represent a transparent Proof of Concept intended to demonstrate architectural integrity to future regulators and participants.
 
 **Regulatory note (Czech Republic):**  
-The former Czech trade license No. 81 (“Provision of services related to virtual assets”) was abolished on February 15, 2025. As of the date of this disclosure, the national licensing process for MiCA‑compliant CASP authorization has not yet been opened by the Czech National Bank. Until TIGR obtains a CASP license, the project remains strictly in an internal Research & Development (R&D) mode.
+The former Czech trade license No. 81 (“Provision of services related to virtual assets”) was abolished on February 15, 2025. As of the date of this disclosure, the national licensing process for MiCA‑compliant CASP authorization has not yet been opened by the Czech National Bank. Project TIGR remains strictly in an internal Research & Development (R&D) mode until full technical decentralization is achieved (pursuant to Recital 22 MiCA) or until a national authorization process is established in accordance with current legal interpretations.
 
 ## 5. Evidence and Auditability
 **Evidence Retention:** Transaction snapshots, address mappings, and internal accounting records documenting the on‑chain state and the internal nature of operations are retained and available for audit by authorized parties.  
@@ -107,7 +107,7 @@ Zakládající entita je odhodlána plně dodržovat regulatorní rámec Evropsk
 - **Transparentní PoC:** Současné blockchainové záznamy představují transparentní Proof of Concept určený k demonstraci architektonické integrity budoucím regulátorům a účastníkům.
 
 **Regulatorní poznámka (Česká republika):**  
-Dřívější živnost č. 81 („Poskytování služeb spojených s virtuálními aktivy“) byla k 15. 2. 2025 zrušena. K datu tohoto oznámení nebyl Českou národní bankou dosud otevřen licenční proces pro CASP autorizaci podle MiCA. Do doby, než TIGR získá CASP licenci, zůstává projekt výhradně v interním režimu výzkumu a vývoje (R&D).
+Dřívější živnost č. 81 („Poskytování služeb spojených s virtuálními aktivy“) byla k 15. 2. 2025 zrušena. K datu tohoto oznámení nebyl Českou národní bankou dosud otevřen licenční proces pro CASP autorizaci podle MiCA. Projekt TIGR zůstává v interním režimu výzkumu a vývoje (R&D) do doby, než bude dosaženo plné technické decentralizace (v souladu s Recitálem 22 MiCA), nebo než bude umožněn proces národní autorizace v souladu s aktuálním právním výkladem.
 
 ## 5. Důkazy a auditovatelnost
 **Uchovávání důkazů:** Snapshoty transakcí, mapování adres a interní účetní záznamy dokumentující on‑chain stav a interní povahu operací jsou uchovávány a jsou k dispozici pro audit oprávněným stranám.  
