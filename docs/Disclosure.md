@@ -31,7 +31,7 @@ Liquidity is minimal, and any attempt to trade against it would result in extrem
 - Locked until: **10 January 2027**
 - Contract ID (vesting): `5xaD8LWsNuazboRyzuBxXCZDiPASDVBYEQUA99KiBAqr`
 
-- Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
+Authorized auditors may request signed snapshots and internal address mappings under appropriate confidentiality conditions.
 
 ## 4. Regulatory Compliance Path
 The founding entity is committed to full compliance with the European Union regulatory framework (MiCA – EU 2023/1114) and applicable national requirements.
