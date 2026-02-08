@@ -67,7 +67,7 @@ Please direct all regulatory, legal, or audit‑related inquiries to the contact
 # Veřejné oznámení: Technický stav & fáze výzkumu a vývoje (R&D)
 
 **Datum:** 8. února 2026  
-**Fáze projektu:** Technická geneze / Interní R&D  
+**Fáze projektu:** Technická geneze / Interní výzkum a vývoj (R&D)  
 **Subjekt:** Tenis Dubeč s.r.o. (IČO: 23653281)
 
 ## 1. Povaha aktuálních aktivit
