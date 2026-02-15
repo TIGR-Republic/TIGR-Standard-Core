@@ -34,6 +34,7 @@ Vstup do sítě (Občanství) je v R&D fázi striktně oddělen od finanční sp
 
 ## 5. Tokenomika a Utilitární funkce
 Token **TIGR** neslouží v této fázi jako investiční nástroj, ale jako **palivo pro governance**.
+* **Genesis Pool:** Současný likviditní pool o velikosti **1M TIGR a 1 SOL** je definován jako klasický **genesis pool** sloužící výhradně k technickému ověření funkčnosti sítě a není určen pro veřejnou obchodní aktivitu.
 * **Role tokenu:** Hlasovací práva, penalizace (slashing) při útoku na síť, odměna za provoz uzlů Ghost Mesh.
 * **Evoluce:** Přechod na využití tokenu TIGR pro kauce je technicky možný **pouze po plné decentralizaci (Awakening)**, což vylučuje vliv zakladatele na tržní poptávku.
 * **Alokace zakladatele:** 0,0 % volných tokenů. Veškeré držené tokeny jsou buď uzamčeny (Vesting: 36 měsíců), nebo byly transparentně nakoupeny z veřejného trhu (**Skin in the Game**).
