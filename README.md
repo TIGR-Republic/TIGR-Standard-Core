@@ -34,6 +34,7 @@ Access to the network (Citizenship) is strictly separated from financial specula
 
 ## 5. Tokenomics and Utility Functions
 In this phase, the **TIGR** token does not serve as an investment tool but as **governance fuel**.
+* **Genesis Pool:** The current liquidity pool of **1M TIGR and 1 SOL** is defined as a classic **genesis pool** used exclusively for technical network verification and is not intended for public trading activity.
 * **Token Role:** Voting rights, slashing penalties for network attacks, and rewards for operating Ghost Mesh nodes.
 * **Evolution:** The transition to utilizing TIGR tokens for deposits is technically permitted **only after full decentralization (Awakening)**, eliminating founder influence over market demand.
 * **Founder Allocation:** 0.0% unlocked tokens. All allocations are either locked (**Vesting: 36 months**) or were transparently acquired from the public market (**Skin in the Game**).
