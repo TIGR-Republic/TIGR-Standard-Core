@@ -31,15 +31,13 @@ All available tokens will be irreversibly burned.
 ## On-chain důkazy / On-chain Evidence
 
 *(Bude doplněno po burnu / To be updated after burn)*
-
 | Akce / Action | TX Hash | Stav / Status |
 |---|---|---|
-| Burn 35M (S4 volné / S4 available) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
-| Burn 1.2M (zakladatel / founder) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
-| Burn 90K (přátelé / friends) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
+| Burn 36.3M (S4 volné + zakladatel + přátelé / S4 available + founder + friends) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
 | Burn 44M (S4 vesting) | 🔒 unlock ~leden / January 2028 | Locked 24 měs. / 24 mo. |
-| Burn 18M (zakladatel vesting / founder vesting) | 🔒 unlock ~leden / January 2029 | Locked 36 měs. / 36 mo. |
-| Burn 1M (pool) | 🔒 unlock ~leden / January 2027 | Locked 12 měs. / 12 mo. |
+| Burn 18M (founder vesting) | 🔒 unlock ~leden / January 2029 | Locked 36 měs. / 36 mo. |
+| Burn 578K (Raydium pool) | 🔒 unlock ~leden / January 2027 | Locked 12 měs. / 12 mo. |
+| HFT boti / HFT bots (~117 TIGR) | ❌ Mimo dosah / Out of reach | Nelze ovlivnit / Cannot control |
 
 ---
 
