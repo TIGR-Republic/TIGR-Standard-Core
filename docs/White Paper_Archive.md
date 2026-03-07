@@ -1,3 +1,5 @@
+[Česká verze zde](./White Paper_Archive_CZ.md)
+
 # WHITE PAPER: TIGR REPUBLIC
 **Version:** 1.0 (Genesis Edition)  
 **Date:** February 8, 2026  
