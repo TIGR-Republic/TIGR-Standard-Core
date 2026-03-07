@@ -1,6 +1,6 @@
 # ⚠️ PROJEKT UKONČEN / PROJECT CLOSED
 
-**Datum / Date:** 7. března 2026
+**Datum / Date:** 7. března 2026 / March 7, 2026
 **Status:** UKONČENO / TERMINATED
 
 ---
@@ -21,28 +21,40 @@ All available tokens will be irreversibly burned.
 
 | Akce / Action | Stav / Status |
 |---|---|
-| Mint Authority | N/A ✅ |
-| Freeze Authority | N/A ✅ |
-| Burn volných tokenů | ⏳ Probíhá / In progress |
-| Vesting tokeny | 🔒 Locked → burn při unlocku |
+| Mint Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
+| Freeze Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
+| Burn volných tokenů / Free token burn | ⏳ Probíhá / In progress |
+| Vesting tokeny / Vesting tokens | 🔒 Locked → burn po unlocku / burn after unlock |
 
 ---
 
-## On-chain důkazy / Evidence
+## On-chain důkazy / On-chain Evidence
+
 *(Bude doplněno po burnu / To be updated after burn)*
 
-| Akce / Action | TX Hash |
-|---|---|
-| Revoke Mint | [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
-| Revoke Freeze | [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
-| Burn | [DOPLNIT] |
+| Akce / Action | TX Hash | Stav / Status |
+|---|---|---|
+| Burn 35M (S4 volné / S4 available) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
+| Burn 1.2M (zakladatel / founder) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
+| Burn 90K (přátelé / friends) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
+| Burn 44M (S4 vesting) | 🔒 unlock ~leden / January 2028 | Locked 24 měs. / 24 mo. |
+| Burn 18M (zakladatel vesting / founder vesting) | 🔒 unlock ~leden / January 2029 | Locked 36 měs. / 36 mo. |
+| Burn 1M (pool) | 🔒 unlock ~leden / January 2027 | Locked 12 měs. / 12 mo. |
 
 ---
 
-Token mint:
+## Prohlášení / Disclaimer
+
+Token TIGR nemá a nikdy neměl investiční hodnotu.
+Projekt neprovádí žádnou veřejnou nabídku tokenů.
+
+The TIGR token has no investment value and never had any.
+The project does not conduct any public token offering.
+
+---
+
+*Token mint / Token mint address:*
 `BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj`
 
-*Původní whitepaper: viz WHITEPAPER_ARCHIVE.md*
-```
-
----
+*Původní whitepaper / Original whitepaper:
+viz / see docs/White Paper_Archive.md*
