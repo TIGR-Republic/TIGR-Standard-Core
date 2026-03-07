@@ -21,8 +21,8 @@ All available tokens will be irreversibly burned.
 
 | Akce / Action | Stav / Status |
 |---|---|
-| Mint Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
-| Freeze Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
+| Mint Authority | N/A ✅ |
+| Freeze Authority | N/A ✅ |
 | Burn volných tokenů | ⏳ Probíhá / In progress |
 | Vesting tokeny | 🔒 Locked → burn při unlocku |
 
@@ -33,8 +33,8 @@ All available tokens will be irreversibly burned.
 
 | Akce / Action | TX Hash |
 |---|---|
-| Revoke Mint | [DOPLNIT] |
-| Revoke Freeze | [DOPLNIT] |
+| Revoke Mint | [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
+| Revoke Freeze | [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
 | Burn | [DOPLNIT] |
 
 ---
