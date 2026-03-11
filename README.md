@@ -23,7 +23,7 @@ All available tokens will be irreversibly burned.
 |---|---|
 | Mint Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
 | Freeze Authority | N/A ✅ [Ověřit / Verify](https://solscan.io/token/BmgcqAv29SNho8ZAXyx2LSNcyeXvAQh6UZk6xcNyWMKj) |
-| Burn volných tokenů / Free token burn | ⏳ Probíhá / In progress |
+| Burn volných tokenů / 5QsiiV3RB5UDW6bCoZRZnxQzyMsXL5TGHNad8QTKNptfGcmpH47RpdftSQozHx8EU6N6YrecKFgcyyjiJ5YTUeTx | Executed |
 | Vesting tokeny / Vesting tokens | 🔒 Locked → burn po unlocku / burn after unlock |
 
 ---
