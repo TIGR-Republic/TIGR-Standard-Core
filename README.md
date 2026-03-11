@@ -33,7 +33,7 @@ All available tokens will be irreversibly burned.
 *(Bude doplněno po burnu / To be updated after burn)*
 | Akce / Action | TX Hash | Stav / Status |
 |---|---|---|
-| Burn 36.3M (S4 volné + zakladatel + přátelé / S4 available + founder + friends) | ⏳ [DOPLNIT / TO BE ADDED] | Probíhá / In progress |
+| Burn 36.3M (S4 volné + zakladatel + přátelé / S4 available + founder + friends) | 5QsiiV3RB5UDW6bCoZRZnxQzyMsXL5TGHNad8QTKNptfGcmpH47RpdftSQozHx8EU6N6YrecKFgcyyjiJ5YTUeTx| Executed |
 | Burn 44M (S4 vesting) | 🔒 unlock ~leden / January 2028 | Locked 24 měs. / 24 mo. |
 | Burn 18M (founder vesting) | 🔒 unlock ~leden / January 2029 | Locked 36 měs. / 36 mo. |
 | Burn 578K (Raydium pool) | 🔒 unlock ~leden / January 2027 | Locked 12 měs. / 12 mo. |
